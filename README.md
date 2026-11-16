@@ -49,6 +49,9 @@ Grade: A
 Result: Pass
 ```
 
+<img width="982" height="316" alt="image" src="https://github.com/user-attachments/assets/97057c1a-5d7b-4813-8142-c4c09de7a2ec" />
+
+
 Invalid input example:
 
 ```
