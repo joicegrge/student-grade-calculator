@@ -49,7 +49,7 @@ Grade: A
 Result: Pass
 ```
 
-<img width="982" height="316" alt="image" src="https://github.com/user-attachments/assets/97057c1a-5d7b-4813-8142-c4c09de7a2ec" />
+<img width="957" height="342" alt="image" src="https://github.com/user-attachments/assets/822ccfbc-dc51-4c86-840d-6d9077b66a16" />
 
 
 Invalid input example:
